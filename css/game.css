@@ -14,8 +14,6 @@
     box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
-
 /* --------------------------------------------------
    1. HEADER & SCOREBOARD (Oben)
    -------------------------------------------------- */
@@ -776,4 +774,5 @@
     .grid-x01-layout {
         grid-template-columns: 1fr; /* Alles untereinander */
     }
+
 }

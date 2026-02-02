@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 /* =========================================
    BASE: Variables, Reset, Typography, Header
    ========================================= */
@@ -164,4 +166,5 @@ main {
     overflow-y: auto; /* Hier wird gescrollt */
     overflow-x: hidden;
     padding-bottom: 20px; /* Puffer unten */
+
 }
